@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I am Alaa Sherif</h1>
-<h2 align="center">Junior AI Engineer</h2>
+<h2 align="center">AI and Data Engineer</h2>
 
 - 😊 AWS Certified Machine Learning – Specialty <a href="https://www.credly.com/badges/7e9813af-0e0a-4202-8984-56163ceaf32f/public_url" target="_blank" rel="noreferrer"> <img src="https://www.w3schools.com/aws/images/awslogo.png" alt="aws" width="40" height="25"/> </a>
 
